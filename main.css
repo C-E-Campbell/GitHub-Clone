@@ -368,7 +368,7 @@ nav {
 
 .history-diagram {
 	display: flex;
-	font-size: 0.8rem;
+	font-size: 0.7rem;
 }
 
 .histBox {
@@ -378,7 +378,7 @@ nav {
 	margin: 0 2px;
 }
 .color-box-1 {
-	background-color: rgb(235, 235, 235);
+	background-color: rgb(212, 212, 212);
 }
 .color-box-2 {
 	background-color: #89cf8d;
