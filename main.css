@@ -346,18 +346,50 @@ nav {
 .history-item:hover {
 	background-color: rgb(5, 61, 5);
 }
+
+.history-bottom {
+	width: 90%;
+	display: flex;
+	justify-content: space-between;
+	padding: 0 45px 15px;
+}
+
 .history-h5 {
-	position: relative;
 	margin: 0;
-	color: rgb(90, 90, 248);
+	color: rgb(73, 73, 248);
 	font-weight: 400;
-	bottom: 12px;
-	left: 50px;
 	font-size: 0.7rem;
 }
 
 .history-h5:hover {
 	text-decoration: underline;
+}
+
+.history-diagram {
+	display: flex;
+	font-size: 0.8rem;
+}
+
+.histBox {
+	height: 13.5px;
+	width: 12.5px;
+	border-radius: 2px;
+	margin: 0 2px;
+}
+.color-box-1 {
+	background-color: rgb(235, 235, 235);
+}
+.color-box-2 {
+	background-color: #89cf8d;
+}
+.color-box-3 {
+	background-color: #51c468;
+}
+.color-box-4 {
+	background-color: #2a6b2f;
+}
+.color-box-5 {
+	background-color: #062908;
 }
 .days-div {
 	display: flex;
