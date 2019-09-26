@@ -466,3 +466,15 @@ footer {
 .greyIcon {
 	color: grey;
 }
+
+@media (max-width: 1300px) {
+	.footer-div {
+		width: 80%;
+	}
+}
+
+@media (max-width: 800px) {
+	.footer-div {
+		width: 100%;
+	}
+}
