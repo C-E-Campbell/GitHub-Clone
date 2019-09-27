@@ -345,7 +345,7 @@ nav {
 }
 
 .history-item:hover {
-	background-color: rgb(5, 61, 5);
+	background-color: #fff !important;
 }
 
 .history-bottom {
